@@ -1,0 +1,45 @@
+图片文件指南 - SITINIEK 个人网站
+========================================
+
+您需要在这个文件夹中放置以下图片：
+
+必需的个人照片（至少5张）：
+1. profile-photo.jpg
+   - 用途：关于我（About Me）部分的主要个人照片
+   - 建议：正式或半正式照片，背景整洁专业
+
+2. career-photo.jpg
+   - 用途：职业抱负（Career）部分
+   - 建议：在学习或工作环境中的照片
+
+3. ctf-photo.jpg
+   - 用途：兴趣爱好部分 - CTF 竞赛
+   - 建议：参加 CTF 竞赛或技术活动的照片
+
+4. coding-photo.jpg
+   - 用途：兴趣爱好部分 - 编程项目
+   - 建议：在电脑前编程的照片
+
+5. learning-photo.jpg
+   - 用途：兴趣爱好部分 - 技术学习
+   - 建议：学习、阅读或研究技术的照片
+
+提示：
+- 所有照片背景应该合适、整洁、专业
+- 推荐尺寸：
+  * profile-photo.jpg: 800x800px (正方形)
+  * career-photo.jpg: 600x800px (竖版)
+  * ctf-photo.jpg, coding-photo.jpg, learning-photo.jpg: 800x600px (横版)
+- 文件格式：JPG 或 JPEG
+- 确保照片清晰、光线充足
+
+您已经上传的照片可以重命名为上述文件名，或者作为其中一张使用。
+
+当前状态：
+[ ] profile-photo.jpg - 待添加
+[ ] career-photo.jpg - 待添加
+[ ] ctf-photo.jpg - 待添加
+[ ] coding-photo.jpg - 待添加
+[ ] learning-photo.jpg - 待添加
+
+完成后，您的个人网站将完美展示！
