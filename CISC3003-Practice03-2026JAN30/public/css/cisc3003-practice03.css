@@ -1,0 +1,257 @@
+/* ============================================
+   CISC3003 Practice 03 Stylesheet
+   Author: SITINIEK (dc227126)
+   Date: January 30, 2026
+   ============================================ */
+
+/* ============================================
+   FONT STACKS
+   ============================================ */
+body {
+   font-family: Georgia, "Times New Roman", Times, serif;
+   font-size: 100%;
+   line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6, nav {
+   font-family: Arial, Helvetica, "Lucida Sans", sans-serif;
+}
+
+/* ============================================
+   HEADER STYLES
+   ============================================ */
+header {
+   color: white;
+   background-color: #1A237E;
+   margin: 0;
+   padding: 1em 0 0.5em 0;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+header > * {
+   width: 750px;
+   padding-left: 1em;
+   padding-right: 1em;
+   box-sizing: border-box;
+}
+
+header h1 {
+   font-size: 2.5em;
+   margin-bottom: 0.2em;
+   font-weight: normal;
+}
+
+header p {
+   font-size: 1em;
+   margin-bottom: 0.5em;
+   font-style: italic;
+}
+
+/* ============================================
+   NAVIGATION STYLES
+   ============================================ */
+nav {
+   width: 750px !important;
+   padding: 0 !important;
+}
+
+nav ul {
+   list-style-type: none;
+   display: flex;
+   gap: 0;
+   padding: 0;
+   margin: 0;
+}
+
+nav li {
+   background-color: transparent;
+   margin: 0;
+}
+
+nav a {
+   display: block;
+   padding: 0.5em 1em;
+   color: #5C6BC0;
+   text-decoration: underline;
+   font-weight: normal;
+}
+
+nav a:hover {
+   color: #00B0FF;
+   background-color: #F50057;
+}
+
+/* ============================================
+   MAIN CONTENT STYLES
+   ============================================ */
+main {
+   margin: 0.25em auto;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+section {
+   margin-bottom: 0.25em;
+   width: 750px;
+}
+
+section h3 {
+   color: white;
+   background-color: #7986CB;
+   padding: 0.5em 1em;
+   margin: 0;
+   font-size: 1.2em;
+   font-weight: normal;
+   text-transform: uppercase;
+}
+
+section .content {
+   background-color: white;
+   padding: 1em;
+}
+
+/* ============================================
+   DESCRIPTION SECTION
+   ============================================ */
+#description h2 {
+   font-size: 1.5em;
+   margin-bottom: 0.3em;
+   color: #1A237E;
+   font-weight: normal;
+}
+
+#description h4 {
+   font-size: 1em;
+   margin-bottom: 1em;
+   color: #666;
+   font-weight: normal;
+}
+
+#description p {
+   margin-bottom: 1em;
+}
+
+#description figure {
+   margin-bottom: 1em;
+}
+
+#description img {
+   display: block;
+   border: 0.2em solid white;
+   box-shadow: 0.2em 0.2em 0.5em rgba(0,0,0,0.3);
+}
+
+#description figcaption {
+   font-style: italic;
+   color: #A5D6A7;
+   margin-top: 0.5em;
+   font-size: 0.9em;
+}
+
+#description .description-text {
+   clear: both;
+}
+
+#description .options {
+   margin-top: 1em;
+   font-weight: bold;
+}
+
+#description .options img {
+   display: inline;
+   margin: 0 0.3em;
+   border: none;
+   box-shadow: none;
+   vertical-align: middle;
+}
+
+/* ============================================
+   RELATED PHOTOS SECTION
+   ============================================ */
+#related .content {
+   text-align: left;
+   padding: 1.5em;
+}
+
+#related img {
+   margin-right: 1em;
+   border: 0.2em solid white;
+   box-shadow: 0.2em 0.2em 0.5em rgba(0,0,0,0.3);
+}
+
+/* ============================================
+   REVIEWS SECTION
+   ============================================ */
+#reviews .review {
+   margin-bottom: 1.5em;
+}
+
+#reviews .review:last-child {
+   margin-bottom: 0;
+}
+
+#reviews .byline {
+   font-style: italic;
+   color: #7986CB;
+   margin-bottom: 0.3em;
+}
+
+#reviews time {
+   color: #FF80AB;
+   font-weight: bold;
+}
+
+#reviews p {
+   margin-bottom: 0.5em;
+}
+
+/* ============================================
+   LINK STYLES
+   ============================================ */
+a {
+   color: #1976D2;
+   text-decoration: underline;
+}
+
+a:hover {
+   color: #00B0FF;
+   background-color: #F50057;
+}
+
+/* ============================================
+   FOOTER STYLES
+   ============================================ */
+footer {
+   color: white;
+   background-color: #1A237E;
+   margin: 0;
+   padding: 1em 0;
+   font-size: 0.9em;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+footer > * {
+   width: 750px;
+   padding-left: 1em;
+   padding-right: 1em;
+   box-sizing: border-box;
+}
+
+footer p {
+   margin-bottom: 0.3em;
+}
+
+footer a {
+   color: white;
+   text-decoration: underline;
+}
+
+footer a:hover {
+   color: #00B0FF;
+   background-color: #F50057;
+}

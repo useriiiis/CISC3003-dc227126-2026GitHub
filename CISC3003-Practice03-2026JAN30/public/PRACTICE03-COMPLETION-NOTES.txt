@@ -1,0 +1,69 @@
+CISC3003 Practice 03 - Completion Notes
+========================================
+Student ID: dc227126
+Student Name: SITINIEK
+Date: January 30, 2026
+
+Files Created/Modified:
+-----------------------
+1. cisc3003-practice03-before.html
+   - Copy of the original HTML file (before modifications)
+
+2. cisc3003-practice03-after.html
+   - Modified HTML file with:
+     * Links to reset.css and cisc3003-practice03.css
+     * Updated navigation links with anchor targets (#description, #related, #reviews)
+     * Added id attributes to sections for navigation
+     * Restructured content with proper headings
+     * Added options section with icon images
+     * Updated footer with student ID and name
+
+3. css/reset.css
+   - Removes default browser styling for main HTML elements
+   - Resets margin, padding, font-size, vertical-align, and border
+
+4. css/cisc3003-practice03.css
+   - Complete stylesheet with the following sections:
+     * Font stacks (sans-serif for headings, serif for body)
+     * Header styles (blue background #1A237E)
+     * Navigation styles (horizontal layout with hover effects)
+     * Main content styles
+     * Description section (with figure, image borders, shadows)
+     * Related photos section
+     * Reviews section
+     * Link styles with hover effect (#00BEE text, #F50057 background)
+     * Footer styles
+
+Color Scheme:
+-------------
+- Header/Footer Background: #1A237E
+- Navigation Background: #3949AB
+- Section Headers: #5C6BC0
+- Content Background: #C5CAE9
+- Figcaption/Byline: #7986CB
+- Link Color: #1976D2
+- Hover Text Color: #00BEE
+- Hover Background: #F50057
+
+Key Features Implemented:
+-------------------------
+1. Responsive layout with proper margins and padding (using em units)
+2. Horizontal navigation menu with hover effects
+3. Anchor links for in-page navigation
+4. Styled sections with distinct backgrounds
+5. Image styling with borders and shadows
+6. Float layout for description text around image
+7. Proper font stacks for headings and body text
+8. Consistent spacing throughout
+
+How to View:
+------------
+Open cisc3003-practice03-after.html in a web browser to see the final result.
+Compare with cisc3003-practice03-before.html to see the improvements.
+
+Notes:
+------
+- All measurements use scalable units (em) instead of pixels
+- Styles are properly commented and organized
+- The layout matches the requirements shown in the reference images
+- Hover effects work on all links and navigation items
