@@ -139,7 +139,7 @@ This website is compatible with:
 ## Credits
 
 - **Design Inspiration**: Central Coffee Shop by thecodercoder.github.io
-- **Developer**: SITINIEK (dc227126)
+- **Developer**: SITINIEK dc227126
 - **Course**: CISC3003 Web Programming
 - **Institution**: University of Macau
 - **Year**: 2026
@@ -156,3 +156,4 @@ This project demonstrates:
 ---
 
 **Last Updated:** January 30, 2026
+
