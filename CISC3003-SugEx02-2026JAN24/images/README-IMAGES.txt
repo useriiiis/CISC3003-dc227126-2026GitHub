@@ -1,5 +1,5 @@
 IMAGES NEEDED FOR CISC3003-SugEx02 PROJECT
-==========================================
+=========================================
 
 Please add the following image files to this folder:
 
@@ -64,3 +64,4 @@ CURRENT STATUS:
 [ ] cold-brew.jpg - Not added yet
 
 After adding all images, the website will display perfectly!
+
