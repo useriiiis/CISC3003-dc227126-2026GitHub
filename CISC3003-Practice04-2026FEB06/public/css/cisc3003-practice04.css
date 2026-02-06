@@ -1,0 +1,190 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+/* general text formatting */
+h1, h2, h3, nav, footer {
+    font-family: Lobster, Cambria, "Times New Roman", serif;
+}
+
+body {
+    font-family: "Open Sans", Verdana, Arial, sans-serif;
+    font-size: 100%;
+    background-color: #E8EAF6;
+}
+
+/* header and navigation */
+header, footer {
+    color: white;
+    background-color: #1A237E;
+    margin: 0em 4em 0.25em 4em;
+}
+
+header h1 {
+    padding: 0.5rem 0 0 1.25rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+header p {
+    font-size: 1rem;
+    font-style: italic;
+    margin-bottom: 1rem;
+    padding: 0 0 0 1.25rem;
+}
+
+footer p {
+    font-size: 1rem;
+    padding: 0.75rem 0 0.75rem 1.25rem;
+}
+
+/* main article styling */
+main {
+    background-color: white;
+    margin: 1em 4em 1em 4em;
+    padding: 1em;
+}
+
+section {
+    margin-bottom: 1em;
+    padding: 0;
+    width: 100%;
+}
+
+/* 表单整体布局 */
+form {
+    margin: 0;
+}
+
+.form-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.form-table .col-left {
+    width: 50%;
+}
+
+.form-table .col-right {
+    width: 50%;
+}
+
+.cell-pad {
+    padding: 0.75rem 1rem;
+    vertical-align: top;
+}
+
+input[type="text"],
+textarea,
+select,
+input[type="number"],
+input[type="color"],
+input[type="date"],
+input[type="time"] {
+    font-family: inherit;
+    font-size: 0.9rem;
+    padding: 0.35rem;
+    margin: 0.2rem 0 0.6rem 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+textarea {
+    resize: vertical;
+}
+
+/* label 与小组件的样式 */
+.label-block {
+    display: block;
+    font-weight: bold;
+}
+
+.label-inline {
+    font-weight: bold;
+    margin-right: 0.5rem;
+}
+
+.spacer {
+    height: 0.7rem;
+}
+
+/* 面板样式（右侧版权等） */
+.panel {
+    /* no extra background; show the light blue from fieldset */
+    background-color: transparent;
+    padding: 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.panel-spacer {
+    margin-top: 0.75rem;
+}
+
+.panel-title {
+    font-weight: bold;
+    margin-bottom: 0.35rem;
+}
+
+.choice {
+    display: block;
+    margin: 0.15rem 0;
+}
+
+/* 许可 & 按钮行 */
+.license-row {
+    /* same color as legend (PHOTO DETAILS bar) */
+    background-color: #7986CB;
+}
+
+.license-label {
+    display: block;
+    padding: 0.75rem 1rem;
+    font-weight: bold;
+}
+
+.button-row {
+    text-align: left;
+    padding: 0.75rem 1rem 1rem 1rem;
+    /* same color as legend (PHOTO DETAILS bar) */
+    background-color: #7986CB;
+}
+
+.rounded {
+    padding: 0.4rem 0.9rem;
+    margin-left: 0.4rem;
+    border-radius: 0.6rem;
+    border: 1px solid #1A237E;
+    background-color: #E53935;
+    color: #E8EAF6;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.rounded:hover {
+    background-color: #C62828;
+}
+
+/* legend 和 fieldset */
+/* 表单相关样式 */
+legend {
+    font-size: 1.35rem;
+    background-color: #7986CB;
+    height: 1.70rem;
+    color: #E8EAF6;
+    text-transform: uppercase;
+    width: 100%;
+    margin: 0;
+    padding: 5px 0;
+}
+
+fieldset {
+    margin: 0;
+    padding: 0;
+    background-color: #C5CAE9;
+    width: 100%;
+    border: none;
+}
+
+form p {
+    margin-top: 0.5em;
+}
+
