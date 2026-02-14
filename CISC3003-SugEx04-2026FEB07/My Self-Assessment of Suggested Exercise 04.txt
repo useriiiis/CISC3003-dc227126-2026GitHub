@@ -1,0 +1,423 @@
+==============================================================
+  My Self-Assessment of Suggested Exercise 04
+  Student ID: dc227126
+  Student Name: SITINIEK
+  Date: 2026FEB13
+==============================================================
+
+CISC3003 Assessment Rubric for Suggested Exercise 04
+
+==============================================================
+Part 1 Project Setup under Eclipse IDE - Suggested Exercise 04
+==============================================================
+
+Assessment Items                                          | Item Score | Score Earned
+----------------------------------------------------------|------------|-------------
+1. Screen shot for Eclipse Project Space for              |     5      |     5
+   Suggested Exercise 04
+   - Eclipse workspace: "CISC3003-dc227126-2026"
+   - Project space: "CISC3003-SugEx04-2026FEB07"
+   - Project folders: "images", "css", "My Screen Shots"
+
+2. Screen shot for Folder View of Suggested Exercise 04   |     3      |     3
+   Eclipse Project
+   - Folder view of workspace "CISC3003-dc227126-2026"
+   - Folder view of project "CISC3003-SugEx04-2026FEB07"
+
+3. Screen shots for (1) and (2) posted in Personal Forum  |     4      |     4
+   - Posted under "My Screen shot for Eclipse Project
+     Space for Suggested Exercise 04"
+   - Posted under "My Screen shot for Folder View of
+     Suggested Exercise 04 Eclipse Project"
+
+4. Screen shots for (1) and (2) stored under              |     4      |     4
+   "My Screen Shots"
+   - "My Screen shot for Eclipse Project Space for
+     Suggested Exercise 04.png"
+   - "My Screen shot for Folder View of Suggested
+     Exercise 04 Eclipse Project.png"
+
+Score earned in Part 1                                    |    16      |    16
+
+
+==============================================================
+Part 2 Work Steps - Suggested Exercise 04
+==============================================================
+
+Assessment Items                                          | Item Score | Score Earned
+----------------------------------------------------------|------------|-------------
+1. Screen shot for "cisc3003-SugEx03-home.html"           |     2      |     2
+   in editor mode
+   - Posted as "My SugEx04 Part02-Item01 screen shot"
+   - Stored as "My SugEx04 Part02-Item01 screen shot.png"
+   - Download link provided
+
+2. Screen shot for "cisc3003-SugEx03-home.html"           |     2      |     2
+   in external browser mode
+   - Posted as "My SugEx04 Part02-Item02 screen shot"
+   - Stored as "My SugEx04 Part02-Item02 screen shot.png"
+
+3. Screen shot for "cisc3003-SugEx03-profile.html"        |     2      |     2
+   in editor mode
+   - Posted as "My SugEx04 Part02-Item03 screen shot"
+   - Stored as "My SugEx04 Part02-Item03 screen shot.png"
+   - Download link provided
+
+4. Screen shot for "cisc3003-SugEx03-profile.html"        |     2      |     2
+   in external browser mode
+   - Posted as "My SugEx04 Part02-Item04 screen shot"
+   - Stored as "My SugEx04 Part02-Item04 screen shot.png"
+
+5. Screen shot for "cisc3003-SugEx03-qualification.html"  |     2      |     2
+   in editor mode
+   - Posted as "My SugEx04 Part02-Item05 screen shot"
+   - Stored as "My SugEx04 Part02-Item05 screen shot.png"
+   - Download link provided
+
+6. Screen shot for "cisc3003-SugEx03-qualification.html"  |     2      |     2
+   in external browser mode
+   - Posted as "My SugEx04 Part02-Item06 screen shot"
+   - Stored as "My SugEx04 Part02-Item06 screen shot.png"
+
+7. Screen shot for updated                                |     2      |     2
+   "cisc3003-SugEx03-showcase.html" in editor mode
+   - Posted as "My SugEx04 Part02-Item07 screen shot"
+   - Stored as "My SugEx04 Part02-Item07 screen shot.png"
+   - Download link provided
+
+8. Screen shot for updated                                |     2      |     2
+   "cisc3003-SugEx03-showcase.html" in external browser
+   - Posted as "My SugEx04 Part02-Item08 screen shot"
+   - Stored as "My SugEx04 Part02-Item08 screen shot.png"
+
+9. Screen shot for "cisc3003-SugEx03-summary.html"        |     2      |     2
+   in editor mode
+   - Posted as "My SugEx04 Part02-Item09 screen shot"
+   - Stored as "My SugEx04 Part02-Item09 screen shot.png"
+   - Download link provided
+
+10. Screen shot for "cisc3003-SugEx03-summary.html"       |     2      |     2
+    in external browser
+    - Posted as "My SugEx04 Part02-Item10 screen shot"
+    - Stored as "My SugEx04 Part02-Item10 screen shot.png"
+
+11. Screen shot for "cisc3003-SugEx03-home.css"           |     2      |     2
+    in editor mode
+    - Posted as "My SugEx04 Part02-Item11 screen shot"
+    - Stored as "My SugEx04 Part02-Item11 screen shot.png"
+    - Download link provided
+
+12. Screen shot for "cisc3003-SugEx03-profile.css"        |     2      |     2
+    in editor mode
+    - Posted as "My SugEx04 Part02-Item12 screen shot"
+    - Stored as "My SugEx04 Part02-Item12 screen shot.png"
+    - Download link provided
+
+13. Screen shot for "cisc3003-SugEx03-qualification.css"  |     2      |     2
+    in editor mode
+    - Posted as "My SugEx04 Part02-Item13 screen shot"
+    - Stored as "My SugEx04 Part02-Item13 screen shot.png"
+    - Download link provided
+
+14. Screen shot for "cisc3003-SugEx03-showcase.css"       |     2      |     2
+    in editor mode
+    - Posted as "My SugEx04 Part02-Item14 screen shot"
+    - Stored as "My SugEx04 Part02-Item14 screen shot.png"
+    - Download link provided
+
+15. Screen shot for "cisc3003-SugEx03-summary.css"        |     2      |     2
+    in editor mode
+    - Posted as "My SugEx04 Part02-Item15 screen shot"
+    - Stored as "My SugEx04 Part02-Item15 screen shot.png"
+    - Download link provided
+
+16. Screen shot for "cisc3003-SugEx04-demo.html"          |     2      |     2
+    in editor mode
+    - Posted as "My SugEx04 Part02-Item16 screen shot"
+    - Stored as "My SugEx04 Part02-Item16 screen shot.png"
+    - Download link provided
+
+17. Screen shot for "cisc3003-SugEx04-demo.css"           |     2      |     2
+    in editor mode
+    - Posted as "My SugEx04 Part02-Item17 screen shot"
+    - Stored as "My SugEx04 Part02-Item17 screen shot.png"
+    - Download link provided
+
+18. Screen shot for "cisc3003-SugEx04-demo.html"          |     2      |     2
+    in external browser
+    - Posted as "My SugEx04 Part02-Item18 screen shot"
+    - Stored as "My SugEx04 Part02-Item18 screen shot.png"
+
+Score earned in Part 2                                    |    36      |    36
+
+
+==============================================================
+Part 3 Test Steps - Suggested Exercise 04
+==============================================================
+
+Assessment Items                                          | Item Score | Score Earned
+----------------------------------------------------------|------------|-------------
+1. Validation success of "cisc3003-SugEx03-home.html"     |     2      |     2
+   - Validated at https://html5.validator.nu - no errors
+   - Posted as "My SugEx04 Part03-Item01 screen shot"
+   - Stored as "My SugEx04 Part03-Item01 screen shot.png"
+
+2. Validation success of "cisc3003-SugEx03-profile.html"  |     2      |     2
+   - Validated at https://html5.validator.nu - no errors
+   - Posted as "My SugEx04 Part03-Item02 screen shot"
+   - Stored as "My SugEx04 Part03-Item02 screen shot.png"
+
+3. Validation success of                                  |     2      |     2
+   "cisc3003-SugEx03-qualification.html"
+   - Validated at https://html5.validator.nu - no errors
+   - Posted as "My SugEx04 Part03-Item03 screen shot"
+   - Stored as "My SugEx04 Part03-Item03 screen shot.png"
+
+4. Validation success of updated                          |     2      |     2
+   "cisc3003-SugEx03-showcase.html"
+   - Validated at https://html5.validator.nu - no errors
+   - Posted as "My SugEx04 Part03-Item04 screen shot"
+   - Stored as "My SugEx04 Part03-Item04 screen shot.png"
+
+5. Validation success of                                  |     2      |     2
+   "cisc3003-SugEx03-summary.html"
+   - Validated at https://html5.validator.nu - no errors
+   - Posted as "My SugEx04 Part03-Item05 screen shot"
+   - Stored as "My SugEx04 Part03-Item05 screen shot.png"
+
+6. Validation success of "cisc3003-SugEx04-demo.html"     |     2      |     2
+   - Validated at https://html5.validator.nu - no errors
+   - Posted as "My SugEx04 Part03-Item06 screen shot"
+   - Stored as "My SugEx04 Part03-Item06 screen shot.png"
+
+Score earned in Part 3                                    |    10      |    10
+
+
+==============================================================
+Part 4 GitHub.com Steps - Suggested Exercise 04
+==============================================================
+
+Assessment Items                                          | Item Score | Score Earned
+----------------------------------------------------------|------------|-------------
+1. Your GitHub Repository Landing Page                    |     2      |     2
+   - Posted as "My SugEx04 Part04-Item01 screen shot"
+   - Stored as "My SugEx04 Part04-Item01 screen shot.png"
+
+2. Your GitHub Suggested Exercise 04 Landing Page         |     2      |     2
+   - Posted as "My SugEx04 Part04-Item02 screen shot"
+   - Stored as "My SugEx04 Part04-Item02 screen shot.png"
+
+3. Your Suggested Exercise 04 Demo HTML Landing Page      |     2      |     2
+   - Posted as "My SugEx04 Part04-Item03 screen shot"
+   - Stored as "My SugEx04 Part04-Item03 screen shot.png"
+
+4. Your Suggested Exercise 04 Demo CSS Landing Page       |     2      |     2
+   - Posted as "My SugEx04 Part04-Item04 screen shot"
+   - Stored as "My SugEx04 Part04-Item04 screen shot.png"
+
+5. Your GitHub.com link for repository                    |     2      |     2
+   "CISC3003-dc227126-2026GitHub"
+   - Posted under "My GitHub Repository for CISC3003-2026"
+
+Score earned in Part 4                                    |    10      |    10
+
+
+==============================================================
+Part 5 Submission Steps - Suggested Exercise 04
+==============================================================
+
+Assessment Items                                          | Item Score | Score Earned
+----------------------------------------------------------|------------|-------------
+1. Screen shot for "My Screen Shots" folder               |     2      |     2
+   - Posted as "My SugEx04 Part05-Item01 screen shot"
+   - Stored as "My SugEx04 Part05-Item01 screen shot.png"
+
+2. Screen shot for the zipped project space               |     2      |     2
+   "CISC3003-SugEx04-2026FEB07"
+   - Zipped as "CISC3003-SugEx04-dc227126.zip"
+   - Posted as "My SugEx04 Part05-Item02 screen shot"
+   - Stored as "My SugEx04 Part05-Item02 screen shot.png"
+
+3. Source listing of "cisc3003-SugEx03-home.html"         |     2      |     2
+   - Posted as '"cisc3003-SugEx03-home.html" file'
+   - Download link provided
+
+4. Source listing of "cisc3003-SugEx03-profile.html"      |     2      |     2
+   - Posted as '"cisc3003-SugEx03-profile.html" file'
+   - Download link provided
+
+5. Source listing of                                      |     2      |     2
+   "cisc3003-SugEx03-qualification.html"
+   - Posted as '"cisc3003-SugEx03-qualification.html" file'
+   - Download link provided
+
+6. Source listing of updated                              |     2      |     2
+   "cisc3003-SugEx03-showcase.html"
+   - Posted as 'Updated "cisc3003-SugEx03-showcase.html" file'
+   - Download link provided
+
+7. Source listing of "cisc3003-SugEx03-summary.html"      |     2      |     2
+   - Posted as '"cisc3003-SugEx03-summary.html" file'
+   - Download link provided
+
+8. Source listing of "cisc3003-SugEx03-home.css"          |     2      |     2
+   - Posted as '"cisc3003-SugEx03-home.css" file'
+   - Download link provided
+
+9. Source listing of "cisc3003-SugEx03-profile.css"       |     2      |     2
+   - Posted as '"cisc3003-SugEx03-profile.css" file'
+   - Download link provided
+
+10. Source listing of                                     |     2      |     2
+    "cisc3003-SugEx03-qualification.css"
+    - Posted as '"cisc3003-SugEx03-qualification.css" file'
+    - Download link provided
+
+11. Source listing of "cisc3003-SugEx03-showcase.css"     |     2      |     2
+    - Posted as '"cisc3003-SugEx03-showcase.css" file'
+    - Download link provided
+
+12. Source listing of "cisc3003-SugEx03-summary.css"      |     2      |     2
+    - Posted as '"cisc3003-SugEx03-summary.css" file'
+    - Download link provided
+
+13. Source listing of "cisc3003-SugEx04-demo.html"        |     2      |     2
+    - Posted as '"cisc3003-SugEx04-demo.html" file'
+    - Download link provided
+
+14. Source listing of "cisc3003-SugEx04-demo.css"         |     2      |     2
+    - Posted as '"cisc3003-SugEx04-demo.css" file'
+    - Download link provided
+
+15. Student completion of the Self-Assessment of          |    Yes     |    Yes
+    Suggested Exercise 04
+    - Self-Assessment posted at personal forum
+
+Score earned in Part 5                                    |    28      |    28
+
+
+==============================================================
+Part 6 Content and Design Score - Suggested Exercise 04
+==============================================================
+
+Assessment Items                                | Assigned | Earned
+------------------------------------------------|----------|-------
+1. Home Page - Look and Feel                    |     3    |    3
+1.1 Home Page - About Me                        |     3    |    3
+1.2 Home Page - My Photo Gallery (5+ photos)    |     3    |    3
+2. Profile Page - Look and Feel                 |     3    |    3
+2.1 Profile Page - My Values and Beliefs        |     3    |    3
+2.2 Profile Page - My Career Aspirations        |     3    |    3
+2.3 Profile Page - My Interests and Hobbies     |     3    |    3
+2.4 Profile Page - My Blog Posts                |     3    |    3
+2.5 Profile Page - My Contact                   |     3    |    3
+3. Summary Page - Look and Feel                 |     3    |    3
+3.1 Summary Page - Goals & Learning Outcomes    |     3    |    3
+3.2 Summary Page - Development Planning         |     3    |    3
+3.3 Summary Page - Reflection & Future          |     3    |    3
+4. Showcase Page - Look and Feel                |     3    |    3
+4.1 Showcase Page - My Learning Log             |     3    |    3
+4.2 Showcase Page - My Accomplishments          |     3    |    3
+4.3 Showcase Page - My Statement of Purpose     |     3    |    3
+5. Qualification Page - Look and Feel           |     3    |    3
+5.1 Qualification Page - My Education           |     3    |    3
+5.2 Qualification Page - My Work Experience     |     3    |    3
+5.3 Qualification Page - My Awards              |     3    |    3
+5.4 Qualification Page - My Related Services    |     3    |    3
+5.5 Qualification Page - My Services            |     3    |    3
+6. Demo Page - Look and Feel (eCommerce site)   |     3    |    3
+6.1 Banner header section                       |     3    |    3
+6.2 Feature Categories section                  |     3    |    3
+6.3 Feature Products section                    |     3    |    3
+6.4 Latest Products section                     |     3    |    3
+6.5 Product Offer section                       |     3    |    3
+6.6 Testimonials section                        |     3    |    3
+6.7 Top Brands section                          |     3    |    3
+6.8 Footer section                              |     3    |    3
+7. Styling Design                               |     3    |    3
+8. Navigation Design                            |     3    |    3
+9. Documentation in HTML files                  |     3    |    3
+10. Documentation in CSS files                  |     3    |    3
+11. Header and Footer in web pages              |     3    |    3
+12. Images in different HTML pages              |     3    |    3
+13. Textual Information in HTML pages           |     3    |    3
+14. Your identity information in HTML pages     |     3    |    3
+
+Score Earned in Part 6                          |   120    |   120
+
+
+==============================================================
+Total Score - dc227126 SITINIEK
+==============================================================
+
+Items of Assessment - SugEx 04          | Allocated Score | Earned Score
+----------------------------------------|-----------------|-------------
+Part 1 Project Setup under Eclipse IDE  |       16        |      16
+Part 2 Work Steps                       |       36        |      36
+Part 3 Test Steps                       |       10        |      10
+Part 4 GitHub.com Steps                 |       10        |      10
+Part 5 Submission Steps                 |       28        |      28
+Part 6 Content and Design Score         |      120        |     120
+Degree of Achievement - Final Results   |       20        |      20
+----------------------------------------|-----------------|-------------
+Total Score                             |      230        |     230
+Scale of 100                            |      100        |     100
+----------------------------------------|-----------------|-------------
+Classification on Quality of Work       |                 |    Good
+
+==============================================================
+Summary of Completed Work
+==============================================================
+
+1. Project Setup:
+   - Eclipse workspace: CISC3003-dc227126-2026
+   - Project space: CISC3003-SugEx04-2026FEB07
+   - Folders: images, css, public, My Screen Shots
+   - Duplicated SugEx03 folder structure
+
+2. Work Steps Completed:
+   - All 5 SugEx03 HTML pages carried forward and maintained:
+     * cisc3003-SugEx03-home.html (Home Page)
+     * cisc3003-SugEx03-profile.html (Profile Page)
+     * cisc3003-SugEx03-qualification.html (Qualification Page)
+     * cisc3003-SugEx03-showcase.html (Showcase Page - updated)
+     * cisc3003-SugEx03-summary.html (Summary Page)
+   - All 5 SugEx03 CSS files carried forward:
+     * cisc3003-SugEx03-home.css
+     * cisc3003-SugEx03-profile.css
+     * cisc3003-SugEx03-qualification.css
+     * cisc3003-SugEx03-showcase.css
+     * cisc3003-SugEx03-summary.css
+   - New eCommerce demo page created:
+     * cisc3003-SugEx04-demo.html (1-page eCommerce demo)
+     * cisc3003-SugEx04-demo.css (styling for eCommerce demo)
+   - eCommerce demo includes all required sections:
+     Banner header, Feature Categories, Feature Products,
+     Latest Products, Product Offer, Testimonials,
+     Top Brands, Footer
+   - Showcase page updated with eCommerce demo project link
+   - Identity footer: "CISC3003 Web Programming - 2026:
+     dc227126 + SITINIEK"
+
+3. Test Steps Completed:
+   - All 6 HTML files validated at https://html5.validator.nu
+   - No errors found in any validation
+   - Responsive design tested by resizing browser windows
+   - Tested in Chrome and Eclipse internal browser
+
+4. GitHub Steps Completed:
+   - Project pushed to public GitHub repository
+     "CISC3003-dc227126-2026GitHub"
+   - All screen shots captured and posted
+   - GitHub link posted under
+     "My GitHub Repository for CISC3003-2026"
+
+5. Submission Steps Completed:
+   - Project zipped as "CISC3003-SugEx04-dc227126.zip"
+   - All source listings (7 HTML + 7 CSS = 14 files) posted
+     in personal forum with download links
+   - Self-assessment completed and posted
+
+==============================================================
+End of Self-Assessment
+==============================================================
