@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NIEKSHOP - Shopping Cart</title>
+    <link rel="stylesheet" href="../css/cisc3003-SugEx06-demo.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+    <!-- ===== Header / Navigation ===== -->
+    <div class="header">
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <h2><i class="fa fa-shield"></i> NIEKSHOP</h2>
+                </div>
+                <nav>
+                    <ul id="menu-items">
+                        <li><a href="cisc3003-sugEx06-demo.html">Home</a></li>
+                        <li><a href="allProducts.html">Products</a></li>
+                        <li><a href="cisc3003-sugEx06-demo.html#about">About</a></li>
+                        <li><a href="cisc3003-sugEx06-demo.html#contact">Contact</a></li>
+                        <li><a href="loginSignup.html">Account</a></li>
+                        <li><a href="shoppingCart.html"><img src="../images/cart.png" alt="Shopping Cart" class="cart"></a></li>
+                    </ul>
+                    <img src="../images/menu.png" alt="Menu Toggle" class="menu-icon" onclick="menutoggle()">
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <!-- ===== Shopping Cart Section ===== -->
+    <div class="small-container cart-page">
+        <table>
+            <thead>
+                <tr>
+                    <th>Product</th>
+                    <th>Quantity</th>
+                    <th>Subtotal</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td data-label="Product">
+                        <div class="cart-info">
+                            <img src="../images/product-1.jpg" alt="ProBook Security Laptop">
+                            <div>
+                                <p>ProBook Security Laptop</p>
+                                <small>Price: USD899.00</small>
+                                <br>
+                                <a href="#">Remove</a>
+                            </div>
+                        </div>
+                    </td>
+                    <td data-label="Quantity"><input type="number" value="1" min="1" max="10"></td>
+                    <td data-label="Subtotal">USD899.00</td>
+                </tr>
+                <tr>
+                    <td data-label="Product">
+                        <div class="cart-info">
+                            <img src="../images/product-2.jpg" alt="CyberMech Keyboard">
+                            <div>
+                                <p>CyberMech Keyboard</p>
+                                <small>Price: USD129.00</small>
+                                <br>
+                                <a href="#">Remove</a>
+                            </div>
+                        </div>
+                    </td>
+                    <td data-label="Quantity"><input type="number" value="2" min="1" max="10"></td>
+                    <td data-label="Subtotal">USD258.00</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="cart-total">
+            <table>
+                <tr>
+                    <td>Subtotal</td>
+                    <td>USD1157.00</td>
+                </tr>
+                <tr>
+                    <td>Tax (10%)</td>
+                    <td>USD115.70</td>
+                </tr>
+                <tr>
+                    <td>Total</td>
+                    <td>USD1272.70</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="cart-buttons">
+            <a href="allProducts.html" class="btn">Continue Shopping</a>
+            <a href="loginSignup.html" class="btn">Proceed to Checkout</a>
+        </div>
+    </div>
+
+    <!-- ===== Footer Section ===== -->
+    <div class="footer" id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col-1">
+                    <h3>Download Our App</h3>
+                    <p>Get the NIEKSHOP app for Android and iOS. Browse products, track orders, and receive exclusive deals on the go.</p>
+                    <div class="app-logo">
+                        <img src="../images/play-store.png" alt="Google Play Store">
+                        <img src="../images/app-store.png" alt="Apple App Store">
+                    </div>
+                </div>
+                <div class="footer-col-2">
+                    <img src="../images/logo-white.png" alt="NIEKSHOP Logo" style="filter: hue-rotate(200deg);">
+                    <p>NIEKSHOP is founded by SITINIEK, a cybersecurity enthusiast and Computer Science student at the University of Macau. Our mission is to make professional-grade security tools accessible to everyone.</p>
+                </div>
+                <div class="footer-col-3">
+                    <h3>Useful Links</h3>
+                    <ul>
+                        <li><a href="#">Student Discounts</a></li>
+                        <li><a href="#">Tech Blog</a></li>
+                        <li><a href="#">Return Policy</a></li>
+                        <li><a href="#">Affiliate Program</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col-4">
+                    <h3>Follow Us</h3>
+                    <ul>
+                        <li><a href="#">Facebook</a></li>
+                        <li><a href="#">Twitter</a></li>
+                        <li><a href="#">Instagram</a></li>
+                        <li><a href="#">YouTube</a></li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+            <p class="copyright">Copyright &copy; 2026 NIEKSHOP by SITINIEK - All Rights Reserved.</p>
+            <p class="copyright">CISC3003 Web Programming - 2026: dc227126 + SITINIEK</p>
+        </div>
+    </div>
+
+    <script>
+        var MenuItems = document.getElementById("menu-items");
+        MenuItems.style.maxHeight = "0px";
+
+        function menutoggle() {
+            if (MenuItems.style.maxHeight == "0px") {
+                MenuItems.style.maxHeight = "200px";
+            } else {
+                MenuItems.style.maxHeight = "0px";
+            }
+        }
+    </script>
+
+</body>
+</html>
