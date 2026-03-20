@@ -1,0 +1,19 @@
+// CISC3003 SugEx07 – Easybank design tokens (Coder Coder / Frontend Mentor)
+// Use with: sass scss/style.scss ../css/style.css
+
+$dark-blue: hsl(233, 26%, 24%);
+$lime-green: hsl(136, 65%, 51%);
+$bright-cyan: hsl(192, 70%, 51%);
+$gray-blue: hsl(233, 8%, 62%);
+$light-gray-blue: hsl(220, 16%, 96%);
+$very-light: hsl(0, 0%, 98%);
+$white: hsl(0, 0%, 100%);
+
+$font-public-sans: "Public Sans", system-ui, sans-serif;
+$container-pad: 1.5rem;
+$max-width: 69.375rem;
+$header-height: 4rem;
+
+// Breakpoints (match JS 64em)
+$bp-desktop: 64em;
+$bp-tablet: 40em;
