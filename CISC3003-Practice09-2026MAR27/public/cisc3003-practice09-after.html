@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>CISC3003 Practice 09</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+<div class="layout">
+
+    <!-- Left Sidebar -->
+    <aside class="sidebar">
+        <div class="sidebar-header">
+            <img src="../images/profile.jpg" class="avatar" alt="Profile">
+            <div class="sidebar-name">John Locke</div>
+            <div class="sidebar-email">johnlocke@example.com</div>
+        </div>
+        <nav class="sidebar-nav">
+            <a href=""><i class="material-icons">dashboard</i>Dashboard</a>
+            <a href=""><i class="material-icons">message</i>Messages</a>
+            <a href=""><i class="material-icons">event</i>Tasks</a>
+            <a href=""><i class="material-icons">call</i>Orders</a>
+            <a href=""><i class="material-icons">settings</i>Configure</a>
+            <a href=""><i class="material-icons">view_list</i>Catalog</a>
+            <a href=""><i class="material-icons">contacts</i>Customers</a>
+            <a href=""><i class="material-icons">insert_chart</i>Analytics</a>
+        </nav>
+    </aside>
+
+    <!-- Right Area -->
+    <div class="main-area">
+
+        <!-- Top Header Bar -->
+        <header class="top-header">
+            <span class="top-header-title"><span class="title-crm">CRM</span> Admin</span>
+            <span class="header-spacer"></span>
+            <button class="icon-btn" title="Messages">
+                <i class="material-icons">account_box</i>
+            </button>
+            <button class="icon-btn" title="Notifications">
+                <i class="material-icons">notifications</i>
+            </button>
+            <div class="search-box">
+                <button class="icon-btn">
+                    <i class="material-icons">search</i>
+                </button>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <div class="content-header">
+                <h4>Order Summaries</h4>
+                <p>Examine your customer orders</p>
+            </div>
+            <div class="orders-container">
+                <!-- Left: My Orders -->
+                <div class="card-orders">
+                    <div class="card-title-purple">
+                        <h2>My Orders</h2>
+                    </div>
+                    <div class="card-content">
+                        <ul class="order-list">
+                            <li><a href="#">Order #500</a></li>
+                            <li><a href="#">Order #510</a></li>
+                            <li><a href="#">Order #520</a></li>
+                            <li><a href="#">Order #530</a></li>
+                            <li><a href="#">Order #540</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Right: Selected Order -->
+                <div class="card-selected">
+                    <div class="card-title-orange">
+                        <h2>Selected Order: #520</h2>
+                    </div>
+                    <div class="card-content">
+                        <table class="order-table">
+                            <caption>Customer: <strong>Mount Royal University</strong></caption>
+                            <thead>
+                                <tr>
+                                    <th>Cover</th>
+                                    <th>Title</th>
+                                    <th class="num">Quantity</th>
+                                    <th class="num">Price</th>
+                                    <th class="num">Amount</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><img src="../images/books/tinysquare/0205886159.jpg" alt="Book Cover"></td>
+                                    <td>Global Issues, Local Arguments</td>
+                                    <td class="num">25</td>
+                                    <td class="num">25</td>
+                                    <td class="num">$625.00</td>
+                                </tr>
+                                <tr>
+                                    <td><img src="../images/books/tinysquare/0205875548.jpg" alt="Book Cover"></td>
+                                    <td>The Prentice Hall Guide for College Writers</td>
+                                    <td class="num">50</td>
+                                    <td class="num">50</td>
+                                    <td class="num">$2,500.00</td>
+                                </tr>
+                                <tr>
+                                    <td><img src="../images/books/tinysquare/0321826035.jpg" alt="Book Cover"></td>
+                                    <td>Introductory and Intermediate Algebra 5e</td>
+                                    <td class="num">40</td>
+                                    <td class="num">35</td>
+                                    <td class="num">$1,400.00</td>
+                                </tr>
+                                <tr>
+                                    <td><img src="../images/books/tinysquare/0205902278.jpg" alt="Book Cover"></td>
+                                    <td>Literature and the Writing Process</td>
+                                    <td class="num">300</td>
+                                    <td class="num">20</td>
+                                    <td class="num">$6,000.00</td>
+                                </tr>
+                            </tbody>
+                            <tfoot>
+                                <tr class="totals">
+                                    <td colspan="4" class="right-align">Subtotal</td>
+                                    <td class="num">$10,525.00</td>
+                                </tr>
+                                <tr class="totals">
+                                    <td colspan="4" class="right-align">Shipping</td>
+                                    <td class="num">$100.00</td>
+                                </tr>
+                                <tr class="grandtotals">
+                                    <td colspan="4" class="right-align">Grand Total</td>
+                                    <td class="num">$10,625.00</td>
+                                </tr>
+                            </tfoot>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,317 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #eee;
+}
+
+/* ===================== OVERALL LAYOUT ===================== */
+.layout {
+    display: flex;
+    min-height: 100vh;
+}
+
+/* ===================== LEFT SIDEBAR ===================== */
+.sidebar {
+    width: 240px;
+    min-width: 240px;
+    background: #263238;
+    color: #b0bec5;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar-header {
+    background: #263238;
+    padding: 20px 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border-bottom: 1px solid #37474f;
+}
+
+.avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 2px solid #546e7a;
+    margin-bottom: 8px;
+}
+
+.sidebar-name {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 2px;
+}
+
+.sidebar-email {
+    color: #90a4ae;
+    font-size: 12px;
+}
+
+.sidebar-nav {
+    background: #37474f;
+    flex: 1;
+    padding-top: 4px;
+}
+
+.sidebar-nav a {
+    display: flex;
+    align-items: center;
+    color: #b0bec5;
+    text-decoration: none;
+    padding: 12px 24px;
+    font-size: 14px;
+    transition: background 0.2s;
+}
+
+.sidebar-nav a:hover {
+    background: #455a64;
+    color: #fff;
+}
+
+.sidebar-nav a .material-icons {
+    margin-right: 24px;
+    font-size: 22px;
+    color: #90a4ae;
+}
+
+/* ===================== RIGHT AREA ===================== */
+.main-area {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ===================== TOP HEADER BAR ===================== */
+.top-header {
+    background: #546E7A;
+    color: #fff;
+    padding: 0 20px;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.top-header-title {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.title-crm {
+    color: #ff6e40;
+    font-weight: 700;
+}
+
+.header-spacer {
+    flex: 1;
+}
+
+.top-header .icon-btn {
+    background: none;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    padding: 8px;
+    margin-left: 4px;
+    position: relative;
+}
+
+.top-header .icon-btn .material-icons {
+    font-size: 24px;
+    vertical-align: middle;
+}
+
+.top-header .search-box {
+    display: flex;
+    align-items: center;
+    margin-left: 8px;
+}
+
+.top-header .search-box input {
+    background: rgba(255,255,255,0.15);
+    border: none;
+    color: #fff;
+    padding: 6px 12px;
+    border-radius: 2px;
+    font-size: 14px;
+    width: 160px;
+    outline: none;
+}
+
+.top-header .search-box input::placeholder {
+    color: rgba(255,255,255,0.5);
+}
+
+/* ===================== MAIN CONTENT ===================== */
+.main-content {
+    flex: 1;
+    padding: 24px;
+    background: #eee;
+}
+
+.content-header h4 {
+    font-size: 22px;
+    color: #37474f;
+    font-weight: 400;
+    margin-bottom: 4px;
+}
+
+.content-header p {
+    font-size: 14px;
+    color: #78909c;
+    margin-bottom: 20px;
+}
+
+/* ===================== ORDERS SIDE BY SIDE ===================== */
+.orders-container {
+    display: flex;
+    gap: 20px;
+    align-items: stretch;
+}
+
+/* Left card */
+.card-orders {
+    flex: 0 0 220px;
+    background: #fff;
+    border-radius: 2px;
+    overflow: hidden;
+    box-shadow: 0 2px 2px rgba(0,0,0,0.14), 0 3px 1px rgba(0,0,0,0.12), 0 1px 5px rgba(0,0,0,0.2);
+}
+
+/* Right card */
+.card-selected {
+    flex: 1;
+    background: #fff;
+    border-radius: 2px;
+    overflow: hidden;
+    box-shadow: 0 2px 2px rgba(0,0,0,0.14), 0 3px 1px rgba(0,0,0,0.12), 0 1px 5px rgba(0,0,0,0.2);
+}
+
+/* Purple title bar */
+.card-title-purple {
+    background: #673AB7;
+    padding: 16px 20px;
+}
+
+.card-title-purple h2 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+}
+
+/* Orange title bar */
+.card-title-orange {
+    background: #FF9800;
+    padding: 16px 20px;
+}
+
+.card-title-orange h2 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+}
+
+/* Card body */
+.card-content {
+    padding: 16px;
+}
+
+/* ===================== ORDER LIST ===================== */
+.order-list {
+    list-style: none;
+}
+
+.order-list li {
+    padding: 10px 4px;
+    border-bottom: 1px solid #eee;
+}
+
+.order-list li:last-child {
+    border-bottom: none;
+}
+
+.order-list a {
+    text-decoration: none;
+    color: #FF9800;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.order-list a:hover {
+    text-decoration: underline;
+}
+
+/* ===================== ORDER TABLE ===================== */
+.order-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+}
+
+.order-table caption {
+    text-align: left;
+    padding: 0 0 12px 0;
+    font-size: 14px;
+    color: #78909c;
+    caption-side: top;
+}
+
+.order-table thead th {
+    text-align: left;
+    padding: 12px 18px;
+    font-weight: 600;
+    color: #455a64;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.order-table thead th.num {
+    text-align: right;
+}
+
+.order-table tbody td {
+    padding: 12px 18px;
+    border-bottom: 1px solid #f0f0f0;
+    vertical-align: middle;
+}
+
+.order-table tbody td.num {
+    text-align: right;
+}
+
+.order-table img {
+    max-width: 55px;
+    height: auto;
+    vertical-align: middle;
+}
+
+/* Footer */
+.order-table tfoot td {
+    padding: 10px 18px;
+}
+
+.order-table tfoot td.right-align {
+    text-align: right;
+}
+
+.totals td {
+    font-style: italic;
+    color: #607d8b;
+    border-top: 1px solid #e0e0e0;
+}
+
+.grandtotals td {
+    font-weight: 700;
+    color: #6200EA;
+    border-top: 2px solid #6200EA;
+    font-size: 14px;
+}
