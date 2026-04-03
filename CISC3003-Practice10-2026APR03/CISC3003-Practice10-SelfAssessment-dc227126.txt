@@ -1,0 +1,77 @@
+============================================================
+  My Self-Assessment of Practice 10
+  CISC3003 Web Programming
+  dc227126 SI TIN IEK
+============================================================
+
+
+------------------------------------------------------------
+Part 1: Project Setup under Eclipse IDE (7 points)
+------------------------------------------------------------
+
+#   Assessment Item                                                  Item Score   Score Earned
+1.  Select Eclipse workspace at designated path                           1            1
+2.  Create Eclipse project "CISC3003-Practice10-2026APR03"                1            1
+3.  Create folder "images" under project space                            1            1
+4.  Move all image files into "images" folder, if any                     1            1
+5.  Create folder "css" under project space                               1            1
+6.  Move all CSS files into "css" folder, if any                          1            1
+7.  Create PHP files (index.php, check.php, fail.php)                     1            1
+
+    Score earned in Part 1                                                7            7
+
+
+------------------------------------------------------------
+Part 2: Work Steps - Practice 10 (7 points)
+------------------------------------------------------------
+
+#   Assessment Item                                                  Item Score   Score Earned
+1.  Open index.php and edit with requirements:
+    - Student ID and name in <title> tag (1 pt)                           1            1
+    - <h1> tag with name "SI TIN IEK's PHP" (1 pt)                       1            1
+    - <pre> tag with ASCII art of letter "S" (1 pt)                       1            1
+    - PHP SHA256 hash computation (1 pt)                                  1            1
+2.  Create fail.php to trigger Fatal Error                                1            1
+3.  Create check.php to check error settings                              1            1
+4.  Web page documented with student ID and name                          1            1
+
+    Score earned in Part 2                                                7            7
+
+
+------------------------------------------------------------
+Part 3: Test and Submission Steps (14 points)
+------------------------------------------------------------
+
+#   Assessment Item                                                  Item Score   Score Earned
+1.  Test pages match Figures 01-03                                        1            1
+2.  Capture resulting pages from browser;
+    include php file and screens in project space and forum               2            2
+3.  Validate page via validator.w3.org;
+    capture screenshot showing no errors                                  2            2
+4.  Complete dynamic Web project with Eclipse IDE (1 pt);
+    save as "CISC3003-Practice10-2026APR03.zip" (1 pt);
+    put in folder "CISC3003-Practice10-dc227126" (1 pt);
+    Deliverables:
+    - Image of index.php output with URL bar (1 pt)                       1            1
+    - Image of fail.php output with URL bar (1 pt)                        1            1
+    - Image of check.php output with URL bar (1 pt)                       1            1
+5.  Submit zipped folder at Submission Link                               1            1
+6.  Share php files in forum                                              1            1
+7.  Complete self-assessment in personal forum                            1            1
+
+    Score earned in Part 3                                               14           14
+
+
+============================================================
+Total Score Summary
+============================================================
+
+Item                                              Allocated   Earned
+Part 1: Project Setup under Eclipse IDE                 7        7
+Part 2: Work Steps                                      7        7
+Part 3: Test and Submission Steps                      14       14
+------------------------------------------------------------
+Total Score                                            28       28
+
+100 Scale:  100
+Classification on Quality of Work:  Good (80 - 100)
