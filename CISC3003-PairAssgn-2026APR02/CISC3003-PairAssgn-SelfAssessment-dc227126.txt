@@ -1,0 +1,140 @@
+============================================================
+  My Self-Assessment of Pair Assignment
+  CISC3003 Web Programming - Pair 04
+  dc227126 SI TIN IEK
+============================================================
+
+CISC3003 Assessment Rubric for Pair Assignment
+Score Earned by: dc227126 SI TIN IEK
+
+
+------------------------------------------------------------
+Part 1: Project Setup under Eclipse IDE (6 points)
+------------------------------------------------------------
+
+#   Assessment Item                                                  Item Score   Score Earned
+1.  Select Eclipse workspace at designated path                           1            1
+2.  Create Eclipse project "CISC3003-PairAssgn-2026APR02"                 1            1
+3.  Create folder "images" under project space                            1            1
+4.  Move all image files into "images" folder                             1            1
+5.  Create folder "css" under project space                               1            1
+6.  Create HTML file "cisc3003-PairAssgn.html" in project space           1            1
+
+    Score earned in Part 1                                                6            6
+
+
+------------------------------------------------------------
+Part 2: Work Steps - Pair Assignment (33 points)
+------------------------------------------------------------
+
+#   Assessment Item                                                  Item Score   Score Earned
+1.  Edit "cisc3003-PairAssgn.html" and create pairProfile.html,
+    pairSummary.html, pairShowcase.html, pairQualification.html
+    plus pair-project-demo01/02/03.html                                   8            8
+2.  Open browser and direct it to the HTML files                          1            1
+3.  Create eight HTML pages following 1-page design format;
+    develop two individual portfolio sites linked from
+    the business site                                                    10           10
+4.  Produce CSS file "cisc3003-PairAssgn.css" with styling rules
+    in "css" folder; additional CSS files for portfolio and
+    demo pages                                                           10           10
+5.  Render web pages in internal/external browser
+    (Chrome, Firefox, Edge)                                               2            2
+6.  Add footer with "CISC3003 Web Programming - 2026:
+    Pair04 -> dc226328 MA IAT TIM | dc227126 SI TIN IEK"
+    on every page                                                         2            2
+
+    Score earned in Part 2                                               33           33
+
+
+------------------------------------------------------------
+Part 3: Test and Submission Steps (37 points)
+------------------------------------------------------------
+
+#   Assessment Item                                                  Item Score   Score Earned
+1.  Test pages with responsive design; capture screenshots
+    proving media queries work                                            5            5
+2.  Validate pages via validator.w3.org; capture screenshots
+    showing no errors                                                     5            5
+3.  Include screenshots in "My Screen Shots" folder and
+    collaborative forum                                                   5            5
+4.  Zip project folder as
+    "CISC3003-PairAssgn-Pair04-dc227126.zip"                              1            1
+5.  Submit zipped file at CISC3003 Submission Link                        1            1
+6.  Show listings and rendered images of HTML files
+    (business site, portfolio sites, demo sites)
+    in collaborative forum                                               10           10
+7.  Show CSS file listings with download links
+    in collaborative forum                                                5            5
+8.  Complete self-assessment in personal forum                            5            5
+
+    Score earned in Part 3                                               37           37
+
+
+------------------------------------------------------------
+Part 4: Contents and Look-and-Feel Design (243 points)
+------------------------------------------------------------
+
+#   Assessment Item                                          Allocated   Score Earned
+1.  Home Page                                                     3            3
+2.  Home Page - About Us                                          3            3
+3.  Profile Page - Our Values and Beliefs                         3            3
+4.  Profile Page - Our Career Aspirations                         3            3
+5.  Profile Page - Our Interests and Hobbies                      3            3
+6.  Profile Page - Our Blog Posts                                 3            3
+7.  Profile Page - Our Contact                                    3            3
+8.  Summary Page - Our Business Goals                             3            3
+9.  Summary Page - Our Professional Commitments                   3            3
+10. Summary Page - Our Future Directions                          3            3
+11. Showcase Page - Our Portfolio Projects                        6            6
+12. Showcase Page - Our Accomplishments                           3            3
+13. Showcase Page - Our Business Offers                           3            3
+14. Qualification Page - Our History                              3            3
+15. Qualification Page - Our Work Experience                      3            3
+16. Qualification Page - Our Awards                               3            3
+17. Qualification Page - Our Services                             3            3
+18. Portfolio-01 site (SI TIN IEK) -
+    Header, Contents + Navigation, Footer                        10           10
+19. Portfolio-02 site (MA IAT TIM) -
+    Header, Contents + Navigation, Footer                        10           10
+20. Project Demo01 site
+    (RedStore e-commerce demo, multi-page)                       20           20
+21. Project Demo02 site
+    (NIEKSHOP e-commerce demo, multi-page)                       20           20
+22. Project Demo03 site
+    (Portfolio demo, multi-page)                                 20           20
+23. Home Page - CSS styling -
+    Media Queries for required screen widths                      3            3
+24. Profile Page - CSS styling - Media Queries                    6            6
+25. Summary Page - CSS styling - Media Queries                    6            6
+26. Showcase Page - CSS styling - Media Queries                   6            6
+27. Qualification Page - CSS styling - Media Queries              6            6
+28. Portfolio Demo sites - CSS styling - Media Queries           10           10
+29. Project Demo sites - CSS styling - Media Queries             10           10
+30. Responsive Design - Media Queries + Hamburger Icon           10           10
+31. Overall Style                                                 3            3
+32. Design of Navigation                                          3            3
+33. Design of CSS files                                           3            3
+34. Header and Footer in web pages                                3            3
+35. Proper Use of Suitable Images                                20           20
+36. Proper Provision of Meaningful Textual Information            20           20
+
+    Score earned in Part 4                                      243          243
+
+
+============================================================
+Total Score Summary
+============================================================
+
+Item                                              Allocated   Earned
+Part 1: Project Setup under Eclipse IDE                 6        6
+Part 2: Work Steps                                     33       33
+Part 3: Test and Submission Steps                      37       37
+Part 4: Contents and Look-and-Feel Design             243      243
+Public GitHub.com link to Pair Assignment (x2)         20       20
+URL of Deployed Business Site (x1)                    100      100
+------------------------------------------------------------
+Total Score                                           439      439
+
+100 Scale:  100
+Classification on Quality of Work:  Good (80 - 100)
