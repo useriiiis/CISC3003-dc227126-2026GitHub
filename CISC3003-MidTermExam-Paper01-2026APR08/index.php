@@ -49,14 +49,14 @@
                 <!-- Overlay Left Panel (shown when Sign Up is active) -->
                 <div class="overlay-panel overlay-left">
                     <h1>Hello, Again!</h1>
-                    <img src="images/login-avatar.png" alt="Login Avatar" class="overlay-img" onerror="this.style.display='none'">
+                    <img src="images/website_7376495.png" alt="Login Avatar" class="overlay-img">
                     <p>Log in to stay connected with us</p>
                     <button class="ghost" id="signIn">SIGN IN</button>
                 </div>
                 <!-- Overlay Right Panel (shown when Sign In is active) -->
                 <div class="overlay-panel overlay-right">
                     <h1>Welcome!</h1>
-                    <img src="images/signup-envelope.png" alt="Signup Envelope" class="overlay-img" onerror="this.style.display='none'">
+                    <img src="images/unsecure_10399884.png" alt="Signup Envelope" class="overlay-img">
                     <p>Enter your details to start your journey</p>
                     <button class="ghost" id="signUp">SIGN UP</button>
                 </div>
