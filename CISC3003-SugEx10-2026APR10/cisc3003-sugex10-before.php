@@ -10,17 +10,18 @@ include 'includes/book-utilities.inc.php';
 <html lang="en">
 
 <head>
-    <title>CISC3003 Suggested Exercise 10</title>
+    <title>dc227126 SI TIN IEK</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="https://code.getmdl.io/1.1.3/material.blue_grey-orange.min.css">
+    <link rel="stylesheet" href="css/material.min.css">
+    <link rel="stylesheet" href="css/demo-styles.css">
     <link rel="stylesheet" href="css/styles.css">
     
-    <script   src="https://code.jquery.com/jquery-1.7.2.min.js" ></script>
-    <script src="https://code.getmdl.io/1.1.3/material.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
+    <script src="js/material.min.js"></script>
     <script src="js/jquery.sparkline.2.1.2.js"></script>
     
   
@@ -111,6 +112,10 @@ include 'includes/book-utilities.inc.php';
            
            
             </div>  <!-- / mdl-grid -->    
+
+            <footer style="text-align:center; padding:20px; font-size:14px; color:#555; margin-top:20px;">
+                CISC3003 Web Programming: dc227126 SI TIN IEK 2026
+            </footer>
 
         </section>
     </main>    
