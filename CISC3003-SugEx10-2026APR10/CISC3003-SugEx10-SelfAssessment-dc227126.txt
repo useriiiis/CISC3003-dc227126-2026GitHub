@@ -1,0 +1,83 @@
+CISC3003 Assessment Rubric for Suggested Exercise 10
+Student ID: dc227126
+Student Name: SI TIN IEK
+
+=============================================================
+Part 1 Project Setup under Eclipse IDE (16 marks)
+=============================================================
+1. Screen shot for Eclipse Project Space for SugEx10          [5/5]
+   - Eclipse workspace: CISC3003-dc227126-2026
+   - Project space: CISC3003-SugEx10-2026APR10
+   - Project folders: images, css, js, data, includes, My Screen Shots
+2. Screen shots for Folder View of SugEx10 Eclipse Project    [3/3]
+   - Folder view of htdocs and project space
+3. Screen shots (1) and (2) posted in Personal Forum          [4/4]
+   - Posted in personal forum under required topic names
+4. Screen shots (1) and (2) stored under "My Screen Shots"    [4/4]
+   - Stored in My Screen Shots folder
+
+Part 1 Score: 16/16
+
+=============================================================
+Part 2 Work Steps (16 marks)
+=============================================================
+1. Screen shot for cisc3003-sugex10.php in editor mode        [2/2]
+2. Screen shot for cisc3003-sugex10.php in browser mode       [2/2]
+3. Screen shot for cisc3003-sugex10-after.php - Customer Data [2/2]
+4. Screen shot for cisc3003-sugex10-after.php - Order Data    [2/2]
+5. Screen shot for cisc3003-sugex10-after.php - Empty Order   [2/2]
+6. Screen shot for book-utilities.inc.php in editor mode      [2/2]
+7. Screen shot for source listing of cisc3003-sugex10-after   [2/2]
+8. Screen shot for source listing of book-utilities.inc.php   [2/2]
+
+Part 2 Score: 16/16
+
+=============================================================
+Part 3 Test Steps (29 marks)
+=============================================================
+1. Screen shot to validate cisc3003-sugex10-after.php         [2/2]
+2. Screen shot to show validation success                     [2/2]
+3. Screen shots for working PHP (Figures 03, 04, 05)          [15/15]
+4. Screen shot for deployed URL in GitHub Pages               [10/10]
+
+Part 3 Score: 29/29
+
+=============================================================
+Part 4 GitHub.com Steps (16 marks)
+=============================================================
+1. GitHub Repository Landing Page                             [2/2]
+2. GitHub SugEx10 Landing Page                                [2/2]
+3. SugEx10 PHP Landing Page                                   [2/2]
+4. book-utilities.inc.php file Page                           [2/2]
+5. header.inc.php file Page                                   [2/2]
+6. left-nav.inc.php file Page                                 [2/2]
+7. Local Repository Views                                     [2/2]
+8. Public GitHub.com link                                     [2/2]
+
+Part 4 Score: 16/16
+
+=============================================================
+Part 5 Submission Steps (6 marks)
+=============================================================
+1. Screen shot for "My Screen Shots" folder                   [2/2]
+2. Screen shot for zipped project space                       [2/2]
+3. Source listing of cisc3003-sugex10-after.php with link      [2/2]
+4. Self-Assessment completed                                  [Yes]
+
+Part 5 Score: 6/6
+
+=============================================================
+SUMMARY
+=============================================================
+Part 1 Project Setup:    16/16
+Part 2 Work Steps:       16/16
+Part 3 Test Steps:       29/29
+Part 4 GitHub.com Steps: 16/16
+Part 5 Submission Steps:  6/6
+-------------------------------------------------------------
+Total Score:             83/83
+Degree of Achievement:   20/20
+Grand Total:            103/103
+Scale of 100:           100/100
+Classification:          Good
+=============================================================
